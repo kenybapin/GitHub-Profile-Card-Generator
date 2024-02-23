@@ -38,6 +38,7 @@ def create_html_page(combined_result):
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
     <title>GitHub User Information</title>
     <link rel="stylesheet" href="style.css">
 </head>
