@@ -2,6 +2,8 @@
 
 This Python script allows you to generate a GitHub profile card using the GitHub API.
 
+![preview](/preview.png)<br><br>
+
 
 ## Prerequisites
 
